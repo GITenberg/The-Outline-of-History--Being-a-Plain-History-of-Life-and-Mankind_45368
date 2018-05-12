@@ -17,7 +17,7 @@ creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
     alias: Wells, Herbert George
-    birthdate: &id001 1866
+    birthdate: 1866
     deathdate: 1946
     gutenberg_agent_id: '30'
     url: http://www.gutenberg.org/2009/agents/30
@@ -32,7 +32,7 @@ creator:
     aliases:
     - Murray, George Gilbert Aimé
     - Murray, George Gilbert Aime
-    birthdate: *id001
+    birthdate: 1866
     deathdate: 1957
     gutenberg_agent_id: '1681'
     url: http://www.gutenberg.org/2009/agents/1681
@@ -65,6 +65,8 @@ description: V. 2. [Christendom and the crusades, cont.] -- The Mongol empires o
   Napoleon Bonaparte ; The realities and imaginations of the nineteenth century ;
   The catastrophe of modern imperialism ; Twenty years of indecision and its outcome
   ; The Second World War.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45368#The-Outline-of-History--Being-a-Plain-History-of-Life-and-Mankind
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2014-04-12'
 gutenberg_type: Text
