@@ -1,0 +1,81 @@
+_repo: The-Outline-of-History--Being-a-Plain-History-of-Life-and-Mankind_45368
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Horrabin, J. F. (James Francis)
+    aliases:
+    - Horrabin, Frank (James Francis)
+    - Horrabin, James Francis
+    birthdate: 1884
+    deathdate: 1962
+    gutenberg_agent_id: '40532'
+    url: http://www.gutenberg.org/2009/agents/40532
+covers:
+- cover_type: archival
+  image_path: 45368-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: &id001 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+  editors:
+  - agent_name: Barker, Ernest, Sir
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '43247'
+    url: http://www.gutenberg.org/2009/agents/43247
+  - agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aimé
+    - Murray, George Gilbert Aime
+    birthdate: *id001
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+  - agent_name: Lankester, E. Ray (Edwin Ray), Sir
+    aliases:
+    - Lankester, Ray, Sir
+    - Lankester, Edwin Ray, Sir
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '32398'
+    url: http://www.gutenberg.org/2009/agents/32398
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Lankester
+  - agent_name: Johnston, Harry
+    aliases:
+    - Johnston, H.H.
+    - Johnston, H. H. (Harry Hamilton), Sir
+    - Johnston, Henry Hamilton, Sir
+    - Johnston, Sir Harry Hamilton
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '4771'
+    url: http://www.gutenberg.org/2009/agents/4771
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Johnston
+description: V. 2. [Christendom and the crusades, cont.] -- The Mongol empires of
+  the land ways and the new empires of the sea ways. The great empire of Jengis Khan
+  and his successors (the age of the land ways) ; The renascence of Western civilization
+  (land ways give place to sea ways) -- The age of the great powers. Princes, parliaments,
+  and powers ; The new democratic republics of America and France ; The career of
+  Napoleon Bonaparte ; The realities and imaginations of the nineteenth century ;
+  The catastrophe of modern imperialism ; Twenty years of indecision and its outcome
+  ; The Second World War.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2014-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'World history'
+title: 'The Outline of History: Being a Plain History of Life and Mankind'
+url: http://www.gutenberg.org/ebooks/45368
